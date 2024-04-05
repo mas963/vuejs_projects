@@ -16,4 +16,6 @@ const { meals } = defineProps({
         type: Array,
     }
 })
+
+console.log(meals);
 </script>
